@@ -1,0 +1,7 @@
+C:\Users\mario\OneDrive\Escritorio\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+C:\Users\mario\OneDrive\Escritorio\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+C:\Users\mario\OneDrive\Escritorio\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+C:\Users\mario\OneDrive\Escritorio\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Escritorio\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Escritorio\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+C:\Users\mario\OneDrive\Escritorio\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb
